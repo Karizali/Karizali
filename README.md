@@ -1,11 +1,11 @@
 <h1 align="center">What's up 👋, I'm <strong>Syed Kariz Ali</strong></h1>
 <h3 align="center">An enthusiastic <strong>Software Engineering</strong> Student and <strong>MERN Stack
     Developer</strong>.  <br> Student at KIET(Karachi Institute of Economics and Technology)</h3>
-<center>
+
   <br>
   <div align="center"><i>I can make web, So I am Spiderman??</i></div>
 
-</center>
+<br>
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100" alt="Coding gif">
 </p>
