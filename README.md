@@ -3,7 +3,7 @@
     Developer</strong>.  <br> Student at KIET(Karachi Institute of Economics and Technology)</h3>
 <center>
   <br>
-  <b><i>I can make web, So I am Spiderman??</i></b>
+  <div align="center"><i>I can make web, So I am Spiderman??</i></div>
 
 </center>
 <p align="center">
